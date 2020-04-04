@@ -35,9 +35,10 @@ Using the Solver, the 2202 schools are grouped into five categories, with Merced
 4)	Small colleges (mostly liberal arts colleges) with above-average median parent household income, below-average median child individual earnings, a below-average fraction of parents in the Bottom 20% of the income distribution, and an above-average fraction of parents in the Top 1% of the income distribution; and 
 5)	Medium-size college/university (including medium-size state schools or community colleges) with average median parent household income, below-average median child individual earnings in 2014, an average fraction of parents in the Bottom 20% of the income distribution, and a relatively low fraction of parents in the Top 1% of the income distribution.
 
+![](Graph.png)
+
 ## Conclusion
 Based on the cluster analysis, we can summarize our findings as the following points: 1) students who attend large-scale community colleges tend to come from families with lower household income, but the social mobility rate of those schools tend to be the highest; whereas small colleges with relatively high parent income and more parents in the top 1% have the lowest mobility rate; 2) medium-size colleges/universities with average parent income has an average social mobility rate; 3) Although the mobility rate of larger universities and medium-size elite universities are the same, universities with higher rankings have a higher upper-tail mobility rate, which means that the percentage of students who have parents in the Bottom 20% of the income distribution and reach the Top 1% of the income distribution is the highest of all.
-![](Graph.png)
 
 ## Additional Links
 1) Data Source: https://opportunityinsights.org/data/?geographic_level=100&topic=105&paper_id=0#resource-listing 
