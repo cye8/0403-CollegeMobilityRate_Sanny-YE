@@ -25,10 +25,8 @@ How are students’ financial circumstances affect which schools they choose to 
 ### Data Question 
 How are different colleges grouped based on metrics related to parent/children income and social mobility?
 
-![](Images/Graph.png)
-
 ## Data Analysis: Clustering the Schools
-![](Images/Cluster.png)
+![](Cluster.png)
 
 Using the Solver, the 2202 schools are grouped into five categories, with Merced Community College, Seattle University, Brandeis University, Minneapolis College of Arts & Design and Metropolitan Community College of Omaha, NE as representatives of each. Based on the average number of children per cohort and other characteristics, the five groups can be generalized as:
 1)	Large-scale community colleges with low median parent household income, low median child individual earnings, a high fraction of parents in the Bottom 20% of the income distribution, and a low fraction of parents in the Top 1% of the income distribution;
@@ -39,6 +37,7 @@ Using the Solver, the 2202 schools are grouped into five categories, with Merced
 
 ## Conclusion
 Based on the cluster analysis, we can summarize our findings as the following points: 1) students who attend large-scale community colleges tend to come from families with lower household income, but the social mobility rate of those schools tend to be the highest; whereas small colleges with relatively high parent income and more parents in the top 1% have the lowest mobility rate; 2) medium-size colleges/universities with average parent income has an average social mobility rate; 3) Although the mobility rate of larger universities and medium-size elite universities are the same, universities with higher rankings have a higher upper-tail mobility rate, which means that the percentage of students who have parents in the Bottom 20% of the income distribution and reach the Top 1% of the income distribution is the highest of all.
+![](Graph.png)
 
 ## Additional Links
 1) Data Source: https://opportunityinsights.org/data/?geographic_level=100&topic=105&paper_id=0#resource-listing 
