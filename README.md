@@ -6,17 +6,17 @@ Social mobility is a hot topic in education research. Finding general patterns o
 The 2202 data points gathered in the dataset represent 2202 schools in the U.S., including universities, liberal-arts colleges and community colleges in different states all over the country. The schools are clustered based on the following factors:
 
 
-1)	Median parent household income,
-2)	Median child individual earnings in 2014,
-3)	Fraction of parents in the Bottom 20% of the income distribution,
-4)	Fraction of parents in the Top 1% of the income distribution,
-5)	Percent of children who reach the Top 20% of the income distribution among children with parents in the Bottom 20% of the income distribution,
-6)	Percent of children who reach the Top 1% of the income distribution among children with parents in the Bottom 20% of the income distribution,
-7)	Mobility Rate (percent of students who have parents in the Bottom 20% of the income distribution and reach the Top 20% of the income distribution),
-8)	Upper-tail Mobility Rate (percent of students who have parents in the Bottom 20% of the income distribution and reach the Top 1% of the income distribution),
-9)	Change in percentage of parents from the bottom 20% of the income distribution between the 1980 and 1991 cohorts, 
-10)	Change in percentage of parents from the bottom 40% of the income distribution between the 1980 and 1991 cohorts, and 
-11)	Average number of children per cohort.
+1)	Median parent household income (par_median),
+2)	Median child individual earnings in 2014 (k_median),
+3)	Fraction of parents in the Bottom 20% of the income distribution (par_q1),
+4)	Fraction of parents in the Top 1% of the income distribution (par_top1pc),
+5)	Percent of children who reach the Top 20% of the income distribution among children with parents in the Bottom 20% of the income distribution (kq5_cond_parq1),
+6)	Percent of children who reach the Top 1% of the income distribution among children with parents in the Bottom 20% of the income distribution (ktop1pc_cond_parq1),
+7)	Mobility Rate (percent of students who have parents in the Bottom 20% of the income distribution and reach the Top 20% of the income distribution) (mr_kq5_pq1),
+8)	Upper-tail Mobility Rate (percent of students who have parents in the Bottom 20% of the income distribution and reach the Top 1% of the income distribution) (mr_ktop1_pq1),
+9)	Change in percentage of parents from the bottom 20% of the income distribution between the 1980 and 1991 cohorts (trend_parq1), 
+10)	Change in percentage of parents from the bottom 40% of the income distribution between the 1980 and 1991 cohorts (trend_bottom40), and 
+11)	Average number of children per cohort (count).
 
 By using the Solver in excel and grouping the schools into five groups, we are able to see how students’ financial circumstances affect their choices of which school to attend, and how possible it is for students to flow from unprivileged socio-economic class to a more privileged one after college.
 
