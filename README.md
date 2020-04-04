@@ -25,10 +25,10 @@ How are students’ financial circumstances affect which schools they choose to 
 ### Data Question 
 How are different colleges grouped based on metrics related to parent/children income and social mobility?
 
-![](Images/Trend.png)
+![](Images/Graph.png)
 
 ## Data Analysis: Clustering the Schools
-![](Images/Cluster_Butterfly.png)
+![](Images/Cluster.png)
 
 Using the Solver, the 2202 schools are grouped into five categories, with Merced Community College, Seattle University, Brandeis University, Minneapolis College of Arts & Design and Metropolitan Community College of Omaha, NE as representatives of each. Based on the average number of children per cohort and other characteristics, the five groups can be generalized as:
 1)	Large-scale community colleges with low median parent household income, low median child individual earnings, a high fraction of parents in the Bottom 20% of the income distribution, and a low fraction of parents in the Top 1% of the income distribution;
